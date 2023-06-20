@@ -2,7 +2,10 @@
 
 I'm a 27 year old civil engineer becoming a sotware engineer.
 
-[My Profile Page](https://pages.github.com/)
+I just finished Le Wagon coding bootcamp and I am looking for new job opportunities as a software engineer !
+
+See my [profile page](https://www.tcosse.github.io/profile/) (work in progress)!
+
 <!--
 **tcosse/tcosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
